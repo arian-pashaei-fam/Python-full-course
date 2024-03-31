@@ -16,4 +16,3 @@ https://www.daneshjooyar.com/python/
 see Python Fundamental and procedural programming methodology(free youtube playlist) :)
 https://www.youtube.com/watch?v=3-ndqjYlFaU&list=PLCYuHRopfbET2B91Dsp4_S1SUPX0bc-8D
 
-![Thumbnail](PyRoadmap/Thumbnail-new-Py.png)
