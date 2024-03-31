@@ -1,4 +1,4 @@
-# Full Python Programming Tutorials in 72 episodes (22 h)
+# Full Python Programming Tutorials in 72 episodes
 
 7 steps outline:
 1. Python Fundamental and procedural programming methodology
